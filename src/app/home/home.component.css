@@ -1,0 +1,15 @@
+.row{
+    margin:35px;
+}
+
+.input-group {
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+}
+
+.centerAlign{
+        margin-left: 35%;
+        width: 50%;
+        padding: 10px;
+}
